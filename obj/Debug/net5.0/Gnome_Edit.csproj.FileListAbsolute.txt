@@ -1,0 +1,16 @@
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/Gnome_Edit
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/Gnome_Edit.deps.json
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/Gnome_Edit.runtimeconfig.json
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/Gnome_Edit.runtimeconfig.dev.json
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/Gnome_Edit.dll
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/ref/Gnome_Edit.dll
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/bin/Debug/net5.0/Gnome_Edit.pdb
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.csprojAssemblyReference.cache
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.AssemblyInfoInputs.cache
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.AssemblyInfo.cs
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.csproj.CoreCompileInputs.cache
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.dll
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/ref/Gnome_Edit.dll
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.pdb
+/home/ubuntu102/Public/temp/csharp/Gnome_Edit/obj/Debug/net5.0/Gnome_Edit.genruntimeconfig.cache
